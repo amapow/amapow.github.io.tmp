@@ -14,11 +14,12 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 鄭長賢
-  tagline: Developer. Spring. CSS.
+  tagline: Developer,
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
   showPicker: false
+  disqus_shortname: untitled
 
   # generate social links in footer
   social_links:
@@ -26,6 +27,7 @@ texture:
     github:  amapow
 #    linkedIn: in/thelehhman
     rss: rss
+    instagram: suit_hyeon
  
 
 # If you want to link only specific pages in your header, uncomment

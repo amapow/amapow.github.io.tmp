@@ -58,6 +58,10 @@
   content: '\f30c'; }
 
 /* '' */
+.icon-instagram:before {
+  content: '\f16d'; }
+
+/* '' */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -617,7 +621,7 @@ figcaption {
   margin-top: -1em; }
 
 header {
-  padding: 120px 0;
+  padding: 35px 0;
   color: #fff;
   overflow: hidden; }
   header h2 {
