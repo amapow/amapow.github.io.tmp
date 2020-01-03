@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b25a8fd7-d5f3-4fbf-8460-8fb7608a36e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/fontello.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.sass-cache/31ea412a35fe81597c33c2f3f158298d123f5975/_fonts.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/31ea412a35fe81597c33c2f3f158298d123f5975/_fonts.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a577043a8bb4b74bb41e2d424953469da8b1a4bd/theme.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/a577043a8bb4b74bb41e2d424953469da8b1a4bd/theme.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/page_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/page_header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/ext/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/ext/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/theme.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/font/fontello.eot" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/font/fontello.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/font/fontello.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/font/fontello.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/font/fontello.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/font/fontello.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/font/fontello.woff" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/font/fontello.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/font/fontello.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/font/fontello.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/posts/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font/fontello.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font/fontello.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font/fontello.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font/fontello.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font/fontello.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font/fontello.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font/fontello.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font/fontello.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font/fontello.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font/fontello.woff2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +24,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -113,13 +102,29 @@
       <option name="project" value="LOCAL" />
       <updated>1578056184903</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="아이콘 및 instagram link 추가&#10;&#10;- fontello 업데이트 (_fonts.scss, assets/font)&#10;- _config.yml 업데이트">
+      <created>1578062553522</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578062553522</updated>
+    </task>
+    <task id="LOCAL-00009" summary="calaender icon 수정&#10;&#10;- index e800을 e801로 수정">
+      <created>1578062674522</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578062674522</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update texture theme," />
     <MESSAGE value="update .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update .gitignore" />
+    <MESSAGE value="아이콘 및 instagram link 추가&#10;&#10;- fontello 업데이트 (_fonts.scss, assets/font)&#10;- _config.yml 업데이트" />
+    <MESSAGE value="calaender icon 수정&#10;&#10;- index e800을 e801로 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="calaender icon 수정&#10;&#10;- index e800을 e801로 수정" />
   </component>
   <component name="WindowStateProjectService">
     <state x="430" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578058941089">
@@ -130,17 +135,19 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1578056073759" />
-    <state x="330" y="64" key="CommitChangelistDialog2" timestamp="1578056184756">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="578" y="23" key="CommitChangelistDialog2" timestamp="1578062674378">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="578" y="23" key="CommitChangelistDialog2/-459.-1417.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1578062674378" />
     <state x="330" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578056184756" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1578054416998">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1578054416998" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1578056191575">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="373" y="231" key="Vcs.Push.Dialog.v2" timestamp="1578062676763">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="373" y="231" key="Vcs.Push.Dialog.v2/-459.-1417.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1578062676763" />
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578056191575" />
     <state x="441" y="251" width="797" height="570" key="find.popup" timestamp="1578062389906">
       <screen x="0" y="23" width="1680" height="1027" />
