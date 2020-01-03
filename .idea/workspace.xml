@@ -4,6 +4,11 @@
     <list default="true" id="b25a8fd7-d5f3-4fbf-8460-8fb7608a36e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-23-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-coding-post.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/coding-post/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/welcome-to-jekyll/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578055963301</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update .gitignore">
+      <created>1578056045001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578056045001</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -90,18 +102,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="update .gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="64" key="CommitChangelistDialog2" timestamp="1578055963168">
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578056073759">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="330" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578055963168" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1578056073759" />
+    <state x="330" y="64" key="CommitChangelistDialog2" timestamp="1578056044868">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="330" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578056044868" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1578054416998">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1578054416998" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1578055966251">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1578056046475">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578055966251" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578056046475" />
     <state x="742" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1578055133078">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
