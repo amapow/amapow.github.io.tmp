@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "김슬기"
+date:   2020-01-03 21:25:36 +0900
+---
+안녕하세요. 너무 이쁘죠?
+
+![Test Image]( {{base.url}} /assets/images/sulkikim.jpg)
