@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578055895624</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update .gitignore">
+      <created>1578055957160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578055957160</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update .gitignore">
+      <created>1578055963301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578055963301</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -76,18 +90,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="update .gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="64" key="CommitChangelistDialog2" timestamp="1578055957029">
+    <state x="330" y="64" key="CommitChangelistDialog2" timestamp="1578055963168">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="330" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578055957029" />
+    <state x="330" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578055963168" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1578054416998">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1578054416998" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1578055898187">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1578055966251">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578055898187" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1578055966251" />
     <state x="742" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1578055133078">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

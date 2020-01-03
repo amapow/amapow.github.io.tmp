@@ -3,5 +3,5 @@
 .sass-cache
 _site
 Gemfile.lock
-/_posts/2019-05-23-welcome-to-jekyll.markdown
-/_posts/2019-06-30-coding-post.markdown
+./_posts/2019-05-23-welcome-to-jekyll.markdown
+./_posts/2019-06-30-coding-post.markdown
