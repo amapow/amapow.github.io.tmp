@@ -21,9 +21,7 @@ tasksel 설치 후 ubuntu gui module을 설치한다.<br>
 아래 화면과 같이 ubuntu-desktop이 설치된다. 시간은 꽤 소요되는듯
 ![Image_1]( {{base.url}} /assets/images/ubundu-desktop_install.png)
 
-설치가 완료되면 별다른 이벤트 없이 아래와 같이 install이 한줄 나온다.
-
-![Image_2]( {{base.url}} /assets/images/ubuntu-desktop_installed.png)
+설치가 완료되면 별다른 이벤트 없이 install이 한줄 표시된다.
 
 ubuntu-desktop이 설치된 후 gdm3를 실행해야 하는데, 본인이 진행하는 서버에는 설치가 되있지 않아서 gdm3도 추가로 설치해준다.
 <br>
@@ -41,7 +39,7 @@ vnc4server 설치 후 실행<br>
 **vnc4server**
 
 vnc4server 실행 후 **netset -tnlp**를 입력하여 확인해보면 5901 port로 Xvnc가 실행된 것을 확인할 수 있다.<br>
-![Image_3]( {{base.url}} /assets/images/netstat-tnlp.png)
+![Image_2]( {{base.url}} /assets/images/netstat-tnlp.png)
 
 그 후 이용하는 클라우드 서버에 5901 포트를 포워딩 후 vnc viewer를 이용해 접속하면 아래와 같이 접속이 잘 됨을 확인할 수 있다.
 ![Image_3]( {{base.url}} /assets/images/vnc_viewer.png)
