@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "apache2 설치"
+date:   2020-03-02 17:13:36 +0900
+---
+
+원래 계획은 docker와 jenkins의 세팅을 포스팅하려 했는데 클라우드 서버를 발급 받은 이유가 웹서버로 사용하기 위함이라, apache2를 설치해서 제대로 작동이 되는지 확인하기 위해 apache2 설치를 포스팅한다.
+
+설치 방법은 간단하다. **sudo apt-get install apache2**로 apache2 설치, 설치가 완료 되면 **apache2 -v**를 입력해 설치가 잘 되었는지 확인하자.<br>
+![Image_1]( {{base.url}} /assets/images/apache2_-v.png)
+
+
