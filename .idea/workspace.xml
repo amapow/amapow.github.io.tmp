@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b25a8fd7-d5f3-4fbf-8460-8fb7608a36e2" name="Default Changelist" comment="">
+    <list default="true" id="c6f39430-7fde-4759-80fd-39fe93a47f0d" name="Default Changelist" comment="2020-03-02 포스트 : apache2">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-03-02-apache2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/images/apache2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/images/apache2_-v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/images/netstat-tnlp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/images/netstat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/posts/apache2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/apache2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/apache2_-v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/netstat-tnlp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/netstat.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-03-01-naver_cloud_setting.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-01-naver_cloud_setting.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/ubuntu-desktop_installed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/naver_cloud_setting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/naver_cloud_setting/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +178,42 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update texture theme," />
@@ -184,12 +233,13 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1578056073759" />
-    <state x="400" y="23" width="833" height="777" key="CommitChangelistDialog2" timestamp="1583047850821">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="2480" y="-367" width="833" height="777" key="CommitChangelistDialog2" timestamp="1583057921350">
+      <screen x="1680" y="-367" width="2560" height="1417" />
     </state>
     <state x="578" y="23" key="CommitChangelistDialog2/-459.-1417.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1578062674378" />
     <state x="400" y="23" width="833" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1583047850821" />
     <state x="330" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578056184756" />
+    <state x="2480" y="-367" key="CommitChangelistDialog2/1680.-367.2560.1417/0.23.1680.1027@1680.-367.2560.1417" timestamp="1583057921350" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1578054416998">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

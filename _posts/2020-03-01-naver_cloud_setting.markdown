@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "네이버 클라우드 서버 세팅"
-date:   2020-01-03 21:25:36 +0900
+date:   2020-03-02 17:25:36 +0900
 ---
 
 오늘 네이버 클라우드 무료 서버인 Micro 서버를 생성하여 Ubuntu VNC를 세팅했다.
@@ -21,9 +21,7 @@ tasksel 설치 후 ubuntu gui module을 설치한다.<br>
 아래 화면과 같이 ubuntu-desktop이 설치된다. 시간은 꽤 소요되는듯
 ![Image_1]( {{base.url}} /assets/images/ubundu-desktop_install.png)
 
-설치가 완료되면 별다른 이벤트 없이 아래와 같이 install이 한줄 나온다.
-
-![Image_2]( {{base.url}} /assets/images/ubuntu-desktop_installed.png)
+설치가 완료되면 별다른 이벤트 없이 install이 한줄 나온다.
 
 ubuntu-desktop이 설치된 후 gdm3를 실행해야 하는데, 본인이 진행하는 서버에는 설치가 되있지 않아서 gdm3도 추가로 설치해준다.
 <br>
