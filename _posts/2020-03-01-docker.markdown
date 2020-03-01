@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "docker CE 설치"
+date:   2020-03-01 20:50:36 +0900
+---
+
+Ubuntu 16.04에 docker를 설치해보자.
+
+<h2>1. 패키지 설치</h2>
+먼저 아래 명령어를 사용해 패키지들을 먼저 설치한다.<br>
+**sudo apt-get update && sudo apt-get install \\<br>
+    apt-transport-https \\<br>
+    ca-certificates \\<br>
+    curl \\<br>
+    software-properties-common**
+
+<h2>2. 패키지 저장소 추가</h2>
+패키지 설치 후 아래 명령어로 패키지 저장소를 추가한다.<br>
+**curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -<br>
+sudo add-apt-repository \\<br>
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \\<br>
+   $(lsb_release -cs) \\<br>
+   stable"**
+
+패키지 저장소 추가 후 아래 명령어롤 사용하여 docker 패키지가 검색되는지 확인한다.<br>
+**sudo apt-get update && sudo apt-cache search docker-ce**
+
+패키지 저장소가 제대로 추가 됐다면 아래와 같은 내용이 출력된다.<br>
+**docker-ce - Docker: the open-source application container engine**
+
+<h2>3. docker CE 설치</h2>
+아래 명령어를 사용해 docker CE를 설치한다.<br>
+**sudo apt-get update && sudo apt-get install docker-ce**
+
+docker CE 설치 완료 후 **docker version** 명령어를 사용했을 때 아래 사진과 같이 server와 client가 모두 보이면 제대로 설치가 완료된것.<br>
+![Image_1]( {{base.url}} /assets/images/docker_installed.png)
