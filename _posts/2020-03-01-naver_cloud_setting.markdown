@@ -16,7 +16,7 @@ date:   2020-01-03 21:25:36 +0900
 **sudo apt-get install tasksel**<br><br>
 
 
-tasksel 설치 후 ubundu gui module을 설치한다.<br>
+tasksel 설치 후 ubuntu gui module을 설치한다.<br>
 **sudo tasksel install ubuntu-desktop**<br>
 아래 화면과 같이 ubuntu-desktop이 설치된다. 시간은 꽤 소요되는듯
 ![Image_1]( {{base.url}} /assets/images/ubundu-desktop_install.png)
