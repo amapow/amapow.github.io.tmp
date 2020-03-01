@@ -17,4 +17,13 @@ tasksel 설치 후 ubundu gui module을 설치한다.<br><br>
 
 sudo tasksel install ubuntu-desktop<br>
 아래 화면과 같이 ubuntu-desktop이 설치된다. 시간은 꽤 소요되는듯
-![Test Image]( {{base.url}} /assets/images/ubuntu-desktop_install.png)
+![Image]( {{base.url}} /assets/images/ubundu-desktop_install.png)
+
+설치가 완료되면 별다른 이벤트 없이 아래와 같이 install이 한줄 나온다.
+
+![Image]( {{base.url}} /assets/images/ubuntu-desktop_installed.png)
+
+ubuntu-desktop이 설치된 후 gdm3를 실행해야 하는데, 본인이 진행하는 서버에는 설치가 되있지 않아서 gdm3도 추가로 설치해준다.
+<br>
+sudo apt-get install gdm3
+
