@@ -10,7 +10,7 @@ date:   2020-03-02 17:13:36 +0900
 ![Image_1]( {{base.url}} /assets/images/apache2_-v.png)
 
 
-netstat -tnlp로 확인해보면 80포트를 apache2가 열어주고 있음을 확인할 수 있다.<br>
+**netstat -tnlp**로 확인해보면 80포트를 apache2가 열어주고 있음을 확인할 수 있다.<br>
 ![Image_2]( {{base.url}} /assets/images/netstat.png)
 
 서버 외부IP로 접속해보면, 아래와 같이 apache2가 작동함을 확인할 수 있다.
