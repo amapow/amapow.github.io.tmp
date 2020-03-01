@@ -42,23 +42,45 @@
 <a href="https://blog.naver.com/nieah914/221609709142" title="네이버블로그 - 피드백맨님">네이버 클라우드 무료 서버 이용하기</a></p>
 
 <p>위 링크를 참고하여 Micro 서버 발급 후 기본적으로 우분투 패키지 업데이트 진행.
-sudo apt update</p>
+<br />
+<strong>sudo apt update</strong></p>
 
 <p>후에 gui module 설치를 위해 tasksel을 설치한다.<br />
-sudo apt-get install tasksel<br />
-tasksel 설치 후 ubundu gui module을 설치한다.<br /><br /></p>
+<strong>sudo apt-get install tasksel</strong><br /><br /></p>
 
-<p>sudo tasksel install ubuntu-desktop<br />
+<p>tasksel 설치 후 ubundu gui module을 설치한다.<br />
+<strong>sudo tasksel install ubuntu-desktop</strong><br />
 아래 화면과 같이 ubuntu-desktop이 설치된다. 시간은 꽤 소요되는듯
-<img src="/assets/images/ubundu-desktop_install.png" alt="Image" /></p>
+<img src="/assets/images/ubundu-desktop_install.png" alt="Image_1" /></p>
 
 <p>설치가 완료되면 별다른 이벤트 없이 아래와 같이 install이 한줄 나온다.</p>
 
-<p><img src="/assets/images/ubuntu-desktop_installed.png" alt="Image" /></p>
+<p><img src="/assets/images/ubuntu-desktop_installed.png" alt="Image_2" /></p>
 
 <p>ubuntu-desktop이 설치된 후 gdm3를 실행해야 하는데, 본인이 진행하는 서버에는 설치가 되있지 않아서 gdm3도 추가로 설치해준다.
 <br />
-sudo apt-get install gdm3</p>
+<strong>sudo apt-get install gdm3</strong></p>
+
+<p>gdm3 설치 후 gdm3를 실행한다.</p>
+
+<p><strong>sudo systemctl enable gdm3</strong>
+<strong>sudo systemctl start gdm3</strong></p>
+
+<p>gdm3 실행이 확인 되었으면 vnc4server를 설치한다.<br />
+<strong>sudo apt-get install vnc4server</strong></p>
+
+<p>vnc4server 설치 후 실행<br />
+<strong>vnc4server</strong></p>
+
+<p>vnc4server 실행 후 <strong>netset -tnlp</strong>를 입력하여 확인해보면 5901 port로 Xvnc가 실행된 것을 확인할 수 있다.<br />
+<img src="/assets/images/netstat-tnlp.png" alt="Image_3" /></p>
+
+<p>그 후 이용하는 클라우드 서버에 5901 포트를 포워딩 후 vnc viewer를 이용해 접속하면 아래와 같이 접속이 잘 됨을 확인할 수 있다.
+<img src="/assets/images/vnc_viewer.png" alt="Image_3" /></p>
+
+<p>계속해서 접속할 수 없다는 에러로 애를 먹었는데, 네이버 클라우드의 경우 ssh 접속용 IP가 아닌 공인IP를 입력해야 접속이 가능하다.</p>
+
+<p>다음 포스팅은 docker와 jenkins 설치로 뵙겠다.</p>
 
 
       </div>
