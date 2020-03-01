@@ -25,5 +25,6 @@ pull이 완료되면 **docker images**를 입력해 jenkins/jenkins가 pull 되�
 <br><br>
 입력 후 Install suggested plugins를 클릭하여 권장 플러그인들을 설치한다.<br>
 설치가 완료되면 아래와 같이 초기 계정 생성창이 뜬다. <br>
-![Image_2]( {{base.url}} /assets/images/jenkins_first_admin_user.png)<br>
+![Image_2]( {{base.url}} /assets/images/jenkins_first_admin_user.png)<br><br>
 
+모두 작성하면 완료.
